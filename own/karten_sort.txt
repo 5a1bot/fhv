@@ -1,0 +1,33 @@
+Problem Kartensortieren:
+
+
+
+eingabemöglichkeit der karten (einschub, stapel, ..)
+unsortierter stapel in die machine legen
+
+wie viele verschiedene Karten ?
+36
+
+Min/Max Kartenanzahl pro durchlauf ?
+108 / 3 set's pro durchlauf
+
+Aufstellung wenn Fertig sortiert ?
+ausgabe in 36 stck pro stapel 
+Reihenfolge wie folgt : 4*ass , absteigend (farbe, zahl)
+
+
+Min/Max Zeit der bearbeitung?
+50 sec
+
+
+Karten erkennung ?
+visual computing erkennung der karten / muss beim ersten durchlauf kalibriert werden
+
+
+
+
+Anzahl 36
+
+
+
+
